@@ -12,6 +12,12 @@ To learn more before you start working with dbank, see the following documentati
 - [Motoko Language Quick Reference](https://sdk.dfinity.org/docs/language-guide/language-manual.html)
 - [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
 
+# dfx version
+This project is based on dfx version 0.9.3. If dfx is not installed, or a different version of dfx is installed, please run the following command.
+```zsh
+DFX_VERSION=0.9.3 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
+```
+
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
